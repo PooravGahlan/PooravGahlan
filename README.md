@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Poorav Gahlan</h1>
-<h3 align="center">17 • India • Even if I fail at the easy one, I'll still definitely try the hard one. </h3>
+<h3 align="center">17 • India • Love building heavy projects </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Full+Stack+Python+Dev;Computer+Vision+Explorer;Chaos+Engineer+in+Training;Building+Big+Hard+Projects" alt="Typing SVG" />
@@ -11,7 +11,7 @@
 
 I'm **Poorav** — a 17-year-old developer from **India** who loves pushing limits. I don't do tutorials. I build projects that scare me a little, then figure it out. Every line of code is a challenge, and that's exactly how I like it.
 
-> *"If it doesn't make you sweat, it's not worth building."*
+> *"Even if I fail at the easy one, I'll still definitely try the hard one"*
 
 ---
 
